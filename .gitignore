@@ -1,0 +1,6 @@
+*.swp
+bazel-bin
+bazel-out
+bazel-testlogs
+bazel-speech_recognizer
+.*
